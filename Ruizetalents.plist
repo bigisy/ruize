@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cjy.Ruizetalents</string>
+				<string>com.chuangmeng.ruize</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -31,4 +31,3 @@
 	</array>
 </dict>
 </plist>
-
