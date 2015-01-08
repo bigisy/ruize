@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chuangmeng.ruizejobs</string>
+				<string>com.chinazk.ruizejobs</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
